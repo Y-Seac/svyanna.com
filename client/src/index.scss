@@ -2,4 +2,6 @@
 @import "~bootstrap/scss/bootstrap.scss";
 // idk if this is correct ??
 //or should i just import all scss files from here
-@import "./styles/custom.scss";
+@import "./styles/_variables.scss";
+@import "./styles/_globals.scss";
+@import "./styles/_card.scss";
